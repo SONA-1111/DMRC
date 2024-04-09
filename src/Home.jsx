@@ -24,7 +24,7 @@ const Home = () => {
                 <h1 className="heading"> <span>Workmen</span> Rakhsha </h1>
                 <div className="row">
                     <div className="image">
-                        <img src="src/Imgs/saftey2.png" />
+                        <img src="/Imgs/saftey2.png" />
                     </div>
                     <div className="content">
                         <h2>Workmen Rakhsha is a safety initiative implemented within the DMRC DE-04 Project, It aims to enhance safety measures at project sites by providing safety awareness to workers involved in construction projects. The initiative is tailored to safeguard workers and ensure the upkeep of a risk-free work environment.</h2>
